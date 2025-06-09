@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+book:
+  title: "christelijke_ethiek"
+  author: "Berend Coster"
+  date: "09/06/2025"
+  chapters:
+    - index.qmd
+    - ethiekalswijsheid.qmd
+    
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
