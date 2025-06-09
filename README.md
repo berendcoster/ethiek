@@ -1,1 +1,1 @@
-# christelijkeethiek
+# Christelijke ethiek
