@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - ethiekalswijsheid.qmd
+    - volgendehoofdstuk.qmd
     
 format:
   html:
