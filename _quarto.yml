@@ -9,13 +9,14 @@ book:
   chapters:
     - index.qmd
     - ethiekalswijsheid.qmd
-    - volgendehoofdstuk.qmd
-    - hoofdstuk10.qmd
+    - watwealtijdmoetenverdedigen.qmd
+    - 02ethischebegrippenenhetmoreleleven.qmd
+    - demensiseenmoreelwezen.qmd
+    
     
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - cosmos
 
 
