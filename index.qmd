@@ -1,10 +1,4 @@
----
-editor: 
-  markdown: 
-    wrap: 72
----
-
-# INLEIDING
+# INLEIDING {-}
 
 Het lesmateriaal voor de cursus Theologische Vorming Gemeenteleden onder
 de titel Waarden en Verantwoordelijkheid bestaat uit een reeks van ¿27?
