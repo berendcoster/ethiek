@@ -9,9 +9,13 @@ book:
   chapters:
     - index.qmd
     - ethiekalswijsheid.qmd
+    - ethischebegrippenenhetmoreleleven.qmd
     - watwealtijdmoetenverdedigen.qmd
-    - 02ethischebegrippenenhetmoreleleven.qmd
     - demensiseenmoreelwezen.qmd
+    - dewaardenvolgensdewet.qmd
+    - dedecaloog.qmd
+    - devrijheidvandewetendewetvandevrijheid.qmd 
+
     
     
 format:
