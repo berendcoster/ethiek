@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "christelijke_ethiek"
+  title: "Christelijke ethiek"
   author: "Berend Coster"
   date: "09/06/2025"
   chapters:
