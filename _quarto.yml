@@ -7,7 +7,7 @@ book:
   author: "Berend Coster"
   date: "09/06/2025"
   chapters:
-    - 0index.qmd
+    - index.qmd
     - 01ethiekalswijsheid.qmd
     - 02ethischebegrippenenhetmoreleleven.qmd
     - 03watwealtijdmoetenverdedigen.qmd
