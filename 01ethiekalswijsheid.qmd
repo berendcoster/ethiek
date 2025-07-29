@@ -1,5 +1,9 @@
 # ETHIEK ALS WIJSHEID {#sec-wijsheid}
 
+
+<p style='text-align: right;'>*bidden*</p> <p style='text-align: right;'>*het goede doen*</p> <p style='text-align: right;'>*en Gods tijd verwachten*</p> <p style='text-align: right;'> Dietrich Bonhoeffer, 1944</p>
+
+
 *Het onderwerp van de ethiek of de moraaltheologie is het goede leven. Hoe kunnen we goed leven en goed leren leven? Dit verlangen naar goed leven in morele zin, is wat de Bijbel verstaat onder wijsheid. Hoewel wijsheid ook intelligentie, scherpzinnigheid en bekwaamheid is, is ze altijd en vooral weten hoe je goed moet leven in morele en geestelijke zin. De man of vrouw die goed weet te leven in zijn of haar relatie met God, met zijn of haar naaste en met zichzelf, is wijs. De belangrijkste voorwaarde ervoor is de vreze des Heren, want het begin van wijsheid – van het goede leven – is de vreze des Heren (Spr. 9.10; 1.7; Psalm 11.10).*
 
 ## De vreze des Heren
@@ -22,7 +26,10 @@ De tegenstelling tussen de wet en de genade, die fundamenteel is voor het begrip
 
 We gaven in dit eerste hoofdstuk van Waarden en Verantwoordelijkheid een definitie van de Bijbelse ethiek d.m.v. het begrip wijsheid. Ethiek in Bijbelse zin is wijsheid en wijsheid is goed weten te leven in de vreze des Heren. Het goede leven is zowel vrij als verantwoordelijk, in een ruimte waar de wet en en de genade elkaar ontmoeten en waar we tegelijkertijd zondaars en toch rechtvaardigen zijn.
 
-Illustratie 1; Wet, wijsheid, evangelie
+![Illustratie 1](figures/il1.png)
+
+
+![Schema 1](figures/sc1.png)
 
 ## Oefeningen
 
